@@ -17,3 +17,10 @@ MySQL-CTS-Tracker is an interface command program that make it easy for non-deve
 * ES6+
 * Node.js
 * MySQL
+
+## Video Link
+https://youtu.be/xNh54L7-Ai8
+
+## Deployed links
+ https://github.com/tremaynet/week12-ctstracker.git
+ https://tremaynet.github.io/week12-ctstracker/
